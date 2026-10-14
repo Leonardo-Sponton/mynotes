@@ -1,0 +1,1165 @@
+{
+ "formato": "mynotes-pensamentos",
+ "versao": 1,
+ "nota": "Acervo público do app MyNotes. Cada citação foi conferida no texto original ou numa tradução de domínio público (ver “fonte”). As traduções para o português são do próprio app, salvo indicação. Itens “incerta” não foram confirmados na fonte primária.",
+ "pensamentos": [
+  {
+   "id": "sen-ep1-3a",
+   "classificacao": "verificada",
+   "texto": "Tudo, Lucílio, nos é alheio; só o tempo é nosso.",
+   "autor": "Sêneca",
+   "epoca": "c. 4 a.C.–65 d.C.",
+   "obra": "Cartas a Lucílio",
+   "referencia": "Carta 1, §3",
+   "tradicao": "Estoicismo",
+   "temas": [
+    "tempo"
+   ],
+   "idioma": "latim",
+   "traducao": "Tradução própria do app, a partir do original latino.",
+   "fonte": "https://www.thelatinlibrary.com/sen/seneca.ep1.shtml",
+   "observacoes": "Latim: “Omnia, Lucili, aliena sunt, tempus tantum nostrum est.”"
+  },
+  {
+   "id": "sen-ep1-3b",
+   "classificacao": "verificada",
+   "texto": "Enquanto adiamos, a vida passa.",
+   "autor": "Sêneca",
+   "epoca": "c. 4 a.C.–65 d.C.",
+   "obra": "Cartas a Lucílio",
+   "referencia": "Carta 1, §3",
+   "tradicao": "Estoicismo",
+   "temas": [
+    "tempo",
+    "ação"
+   ],
+   "idioma": "latim",
+   "traducao": "Tradução própria do app, a partir do original latino.",
+   "fonte": "https://www.thelatinlibrary.com/sen/seneca.ep1.shtml",
+   "observacoes": "Latim: “Dum differtur vita transcurrit.”"
+  },
+  {
+   "id": "sen-ep7-8",
+   "classificacao": "verificada",
+   "texto": "Os homens aprendem enquanto ensinam.",
+   "autor": "Sêneca",
+   "epoca": "c. 4 a.C.–65 d.C.",
+   "obra": "Cartas a Lucílio",
+   "referencia": "Carta 7, §8",
+   "tradicao": "Estoicismo",
+   "temas": [
+    "aprendizado",
+    "amizade"
+   ],
+   "idioma": "latim",
+   "traducao": "Tradução própria do app, a partir do original latino.",
+   "fonte": "https://www.thelatinlibrary.com/sen/seneca.ep1.shtml",
+   "observacoes": "Latim: “homines dum docent discunt.” No contexto, Sêneca recomenda conviver com quem nos torna melhores e com quem podemos tornar melhores."
+  },
+  {
+   "id": "sen-ep13-4",
+   "classificacao": "verificada",
+   "texto": "Há mais coisas que nos assustam do que coisas que nos esmagam; e sofremos mais vezes pela opinião do que pela realidade.",
+   "autor": "Sêneca",
+   "epoca": "c. 4 a.C.–65 d.C.",
+   "obra": "Cartas a Lucílio",
+   "referencia": "Carta 13, §4",
+   "tradicao": "Estoicismo",
+   "temas": [
+    "medo",
+    "sofrimento",
+    "sabedoria"
+   ],
+   "idioma": "latim",
+   "traducao": "Tradução própria do app, a partir do original latino.",
+   "fonte": "https://www.thelatinlibrary.com/sen/seneca.ep2.shtml",
+   "observacoes": "Latim: “Plura sunt, Lucili, quae nos terrent quam quae premunt, et saepius opinione quam re laboramus.”"
+  },
+  {
+   "id": "sen-ep28-1",
+   "classificacao": "verificada",
+   "texto": "É de alma que precisas mudar, não de céu.",
+   "autor": "Sêneca",
+   "epoca": "c. 4 a.C.–65 d.C.",
+   "obra": "Cartas a Lucílio",
+   "referencia": "Carta 28, §1",
+   "tradicao": "Estoicismo",
+   "temas": [
+    "autoconhecimento",
+    "tranquilidade"
+   ],
+   "idioma": "latim",
+   "traducao": "Tradução própria do app, a partir do original latino.",
+   "fonte": "https://www.thelatinlibrary.com/sen/seneca.ep3.shtml",
+   "observacoes": "Latim: “Animum debes mutare, non caelum.” “Céu” no sentido de clima, de lugar: Sêneca responde a quem viajava para fugir da própria tristeza."
+  },
+  {
+   "id": "sen-ep104-26",
+   "classificacao": "verificada",
+   "texto": "Não é porque as coisas são difíceis que não ousamos; é porque não ousamos que elas são difíceis.",
+   "autor": "Sêneca",
+   "epoca": "c. 4 a.C.–65 d.C.",
+   "obra": "Cartas a Lucílio",
+   "referencia": "Carta 104, §26",
+   "tradicao": "Estoicismo",
+   "temas": [
+    "coragem",
+    "ação"
+   ],
+   "idioma": "latim",
+   "traducao": "Tradução própria do app, a partir do original latino.",
+   "fonte": "https://www.thelatinlibrary.com/sen/seneca.ep17-18.shtml",
+   "observacoes": "Latim: “Non quia difficilia sunt non audemus, sed quia non audemus difficilia sunt.”"
+  },
+  {
+   "id": "sen-brev-1-3",
+   "classificacao": "verificada",
+   "texto": "Não é que tenhamos pouco tempo: é que perdemos muito.",
+   "autor": "Sêneca",
+   "epoca": "c. 4 a.C.–65 d.C.",
+   "obra": "Sobre a brevidade da vida",
+   "referencia": "1, §3",
+   "tradicao": "Estoicismo",
+   "temas": [
+    "tempo"
+   ],
+   "idioma": "latim",
+   "traducao": "Tradução própria do app, a partir do original latino.",
+   "fonte": "https://www.thelatinlibrary.com/sen/sen.brevita.shtml",
+   "observacoes": "Latim: “Non exiguum temporis habemus, sed multum perdidimus.”"
+  },
+  {
+   "id": "sen-ira-3-36a",
+   "classificacao": "verificada",
+   "texto": "Que mal teu curaste hoje? A que vício resististe? Em que estás melhor?",
+   "autor": "Sêneca",
+   "epoca": "c. 4 a.C.–65 d.C.",
+   "obra": "Sobre a ira",
+   "referencia": "III, 36.1",
+   "tradicao": "Estoicismo",
+   "temas": [
+    "exame de consciência",
+    "temperança"
+   ],
+   "idioma": "latim",
+   "traducao": "Tradução própria do app, a partir do original latino.",
+   "fonte": "https://www.thelatinlibrary.com/sen/sen.ira3.shtml",
+   "observacoes": "Sêneca relata que o filósofo Séxtio fazia estas perguntas a si mesmo ao fim de cada dia, e conta em seguida (III.36.2–3) que adota a mesma prática."
+  },
+  {
+   "id": "sen-ira-3-36b",
+   "classificacao": "verificada",
+   "texto": "Vê que não o faças mais; desta vez eu te perdoo.",
+   "autor": "Sêneca",
+   "epoca": "c. 4 a.C.–65 d.C.",
+   "obra": "Sobre a ira",
+   "referencia": "III, 36.4",
+   "tradicao": "Estoicismo",
+   "temas": [
+    "exame de consciência",
+    "perdão"
+   ],
+   "idioma": "latim",
+   "traducao": "Tradução própria do app, a partir do original latino.",
+   "fonte": "https://www.thelatinlibrary.com/sen/sen.ira3.shtml",
+   "observacoes": "Latim: “vide ne istud amplius facias, nunc tibi ignosco.” É o que Sêneca diz a si mesmo ao revisar o dia: exigência sem condenação."
+  },
+  {
+   "id": "ept-man-1",
+   "classificacao": "verificada",
+   "texto": "Algumas coisas dependem de nós, outras não.",
+   "autor": "Epicteto",
+   "epoca": "c. 50–135 d.C.",
+   "obra": "Manual (Encheirídion)",
+   "referencia": "1.1",
+   "tradicao": "Estoicismo",
+   "temas": [
+    "liberdade",
+    "responsabilidade",
+    "sabedoria"
+   ],
+   "idioma": "grego antigo",
+   "traducao": "Tradução própria do app, a partir do original grego; conferida com a tradução inglesa de George Long (1877, domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/10661",
+   "observacoes": "O Manual foi compilado por Arriano, aluno de Epicteto, a partir das lições do mestre."
+  },
+  {
+   "id": "ept-man-5",
+   "classificacao": "verificada",
+   "texto": "Não são as coisas que perturbam os homens, mas as opiniões que eles têm sobre as coisas.",
+   "autor": "Epicteto",
+   "epoca": "c. 50–135 d.C.",
+   "obra": "Manual (Encheirídion)",
+   "referencia": "5",
+   "tradicao": "Estoicismo",
+   "temas": [
+    "tranquilidade",
+    "sabedoria"
+   ],
+   "idioma": "grego antigo",
+   "traducao": "Tradução própria do app, a partir do original grego; conferida com a tradução inglesa de George Long (1877, domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/10661",
+   "observacoes": ""
+  },
+  {
+   "id": "ept-man-8",
+   "classificacao": "verificada",
+   "texto": "Não queiras que as coisas aconteçam como queres; quer que aconteçam como acontecem, e tua vida correrá serena.",
+   "autor": "Epicteto",
+   "epoca": "c. 50–135 d.C.",
+   "obra": "Manual (Encheirídion)",
+   "referencia": "8",
+   "tradicao": "Estoicismo",
+   "temas": [
+    "aceitação",
+    "tranquilidade"
+   ],
+   "idioma": "grego antigo",
+   "traducao": "Tradução própria do app, a partir do original grego; conferida com a tradução inglesa de George Long (1877, domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/10661",
+   "observacoes": ""
+  },
+  {
+   "id": "ept-man-51",
+   "classificacao": "verificada",
+   "texto": "Até quando vais adiar considerar-te digno do melhor?",
+   "autor": "Epicteto",
+   "epoca": "c. 50–135 d.C.",
+   "obra": "Manual (Encheirídion)",
+   "referencia": "51.1 (capítulo L na tradução de G. Long)",
+   "tradicao": "Estoicismo",
+   "temas": [
+    "ação",
+    "tempo"
+   ],
+   "idioma": "grego antigo",
+   "traducao": "Tradução própria do app, a partir do original grego; conferida com a tradução inglesa de George Long (1877, domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/10661",
+   "observacoes": ""
+  },
+  {
+   "id": "ept-disc-2-18",
+   "classificacao": "verificada",
+   "texto": "Todo hábito e toda capacidade se mantêm e crescem pelas ações correspondentes: o hábito de caminhar, caminhando; o de correr, correndo.",
+   "autor": "Epicteto",
+   "epoca": "c. 50–135 d.C.",
+   "obra": "Discursos (Diatribes)",
+   "referencia": "II, 18.1",
+   "tradicao": "Estoicismo",
+   "temas": [
+    "hábito",
+    "ação"
+   ],
+   "idioma": "grego antigo",
+   "traducao": "Tradução própria do app, a partir do original grego; conferida com a tradução inglesa de George Long (1877, domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/10661",
+   "observacoes": ""
+  },
+  {
+   "id": "cle-man-53",
+   "classificacao": "verificada",
+   "texto": "Conduz-me, ó Zeus, e tu, Destino, para onde me designastes; eu seguirei sem hesitar.",
+   "autor": "Cleantes",
+   "epoca": "c. 330–230 a.C.",
+   "obra": "versos citados no Manual de Epicteto",
+   "referencia": "Manual 53.1 (capítulo LII na tradução de G. Long)",
+   "tradicao": "Estoicismo",
+   "temas": [
+    "aceitação",
+    "coragem"
+   ],
+   "idioma": "grego antigo",
+   "traducao": "Tradução própria do app, a partir do original grego; conferida com a tradução inglesa de George Long (1877, domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/10661",
+   "observacoes": "Versos de Cleantes, sucessor de Zenão, conservados por Epicteto. Não fazem parte do Hino a Zeus, outro poema dele."
+  },
+  {
+   "id": "mar-2-1",
+   "classificacao": "verificada",
+   "texto": "Ao começar a manhã, diz a ti mesmo: hoje encontrarei o intrometido, o ingrato, o arrogante, o enganador, o invejoso, o insociável. Tudo isso lhes acontece por ignorarem o que é bom e o que é mau.",
+   "autor": "Marco Aurélio",
+   "epoca": "121–180 d.C.",
+   "obra": "Meditações",
+   "referencia": "II, 1",
+   "tradicao": "Estoicismo",
+   "temas": [
+    "justiça",
+    "paciência"
+   ],
+   "idioma": "grego antigo",
+   "traducao": "Tradução própria do app, a partir do original grego; conferida com a tradução inglesa de George Long (1862, domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/15877",
+   "observacoes": ""
+  },
+  {
+   "id": "mar-4-3",
+   "classificacao": "verificada",
+   "texto": "O universo é mudança; a vida é opinião.",
+   "autor": "Marco Aurélio",
+   "epoca": "121–180 d.C.",
+   "obra": "Meditações",
+   "referencia": "IV, 3",
+   "tradicao": "Estoicismo",
+   "temas": [
+    "mudança",
+    "sabedoria"
+   ],
+   "idioma": "grego antigo",
+   "traducao": "Tradução própria do app, a partir do original grego; conferida com a tradução inglesa de George Long (1862, domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/15877",
+   "observacoes": ""
+  },
+  {
+   "id": "mar-4-17",
+   "classificacao": "verificada",
+   "texto": "Não vivas como se fosses viver dez mil anos. A morte paira sobre ti. Enquanto vives, enquanto podes, torna-te bom.",
+   "autor": "Marco Aurélio",
+   "epoca": "121–180 d.C.",
+   "obra": "Meditações",
+   "referencia": "IV, 17",
+   "tradicao": "Estoicismo",
+   "temas": [
+    "morte",
+    "tempo",
+    "ação"
+   ],
+   "idioma": "grego antigo",
+   "traducao": "Tradução própria do app, a partir do original grego; conferida com a tradução inglesa de George Long (1862, domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/15877",
+   "observacoes": ""
+  },
+  {
+   "id": "mar-5-20",
+   "classificacao": "verificada",
+   "texto": "A mente converte todo obstáculo à sua atividade em auxílio: o que impede a ação faz a ação avançar, e o que está no caminho nos ajuda a seguir por ele.",
+   "autor": "Marco Aurélio",
+   "epoca": "121–180 d.C.",
+   "obra": "Meditações",
+   "referencia": "V, 20",
+   "tradicao": "Estoicismo",
+   "temas": [
+    "coragem",
+    "adversidade"
+   ],
+   "idioma": "grego antigo",
+   "traducao": "Tradução própria do app, a partir do original grego; conferida com a tradução inglesa de George Long (1862, domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/15877",
+   "observacoes": ""
+  },
+  {
+   "id": "mar-6-6",
+   "classificacao": "verificada",
+   "texto": "A melhor maneira de te vingares é não te tornares igual a quem te fez mal.",
+   "autor": "Marco Aurélio",
+   "epoca": "121–180 d.C.",
+   "obra": "Meditações",
+   "referencia": "VI, 6",
+   "tradicao": "Estoicismo",
+   "temas": [
+    "justiça",
+    "temperança"
+   ],
+   "idioma": "grego antigo",
+   "traducao": "Tradução própria do app, a partir do original grego; conferida com a tradução inglesa de George Long (1862, domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/15877",
+   "observacoes": ""
+  },
+  {
+   "id": "mar-7-67",
+   "classificacao": "verificada",
+   "texto": "Muito pouco é necessário para viver uma vida feliz.",
+   "autor": "Marco Aurélio",
+   "epoca": "121–180 d.C.",
+   "obra": "Meditações",
+   "referencia": "VII, 67",
+   "tradicao": "Estoicismo",
+   "temas": [
+    "felicidade",
+    "temperança"
+   ],
+   "idioma": "grego antigo",
+   "traducao": "Tradução própria do app, a partir do original grego; conferida com a tradução inglesa de George Long (1862, domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/15877",
+   "observacoes": ""
+  },
+  {
+   "id": "mar-10-16",
+   "classificacao": "verificada",
+   "texto": "Não discutas mais sobre como deve ser um homem bom. Sê um.",
+   "autor": "Marco Aurélio",
+   "epoca": "121–180 d.C.",
+   "obra": "Meditações",
+   "referencia": "X, 16",
+   "tradicao": "Estoicismo",
+   "temas": [
+    "ação",
+    "justiça"
+   ],
+   "idioma": "grego antigo",
+   "traducao": "Tradução própria do app, a partir do original grego; conferida com a tradução inglesa de George Long (1862, domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/15877",
+   "observacoes": ""
+  },
+  {
+   "id": "mus-gel-16-1",
+   "classificacao": "verificada",
+   "texto": "Se fizeres algo belo com esforço, o esforço passa e o belo permanece; se fizeres algo vergonhoso com prazer, o prazer passa e a vergonha permanece.",
+   "autor": "Musônio Rufo",
+   "epoca": "c. 30–101 d.C.",
+   "obra": "dito citado por Aulo Gélio, Noites Áticas",
+   "referencia": "XVI, 1.2",
+   "tradicao": "Estoicismo",
+   "temas": [
+    "temperança",
+    "esforço"
+   ],
+   "idioma": "grego antigo",
+   "traducao": "Tradução própria do app, a partir do grego citado por Aulo Gélio.",
+   "fonte": "https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Gellius/16*.html",
+   "observacoes": "Gélio conta que ouvia o dito como de Musônio e observa que Catão, o Velho, disse algo semelhante muito antes, num discurso em Numância (XVI.1.3–4)."
+  },
+  {
+   "id": "zen-dl-7-23",
+   "classificacao": "verificada",
+   "texto": "Temos dois ouvidos e uma só boca para ouvirmos mais e falarmos menos.",
+   "autor": "Zenão de Cício",
+   "epoca": "c. 334–262 a.C.",
+   "obra": "dito registrado por Diógenes Laércio, Vidas e doutrinas dos filósofos ilustres",
+   "referencia": "VII, 23",
+   "tradicao": "Estoicismo",
+   "temas": [
+    "escuta",
+    "temperança"
+   ],
+   "idioma": "grego antigo",
+   "traducao": "Tradução própria do app; conferida com a tradução inglesa de C. D. Yonge (1853, domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/57342",
+   "observacoes": "Diógenes Laércio escreveu cerca de cinco séculos depois de Zenão: é um dito atribuído, não um texto do próprio Zenão."
+  },
+  {
+   "id": "pla-apo-38a",
+   "classificacao": "verificada",
+   "texto": "Uma vida sem exame não vale a pena ser vivida.",
+   "autor": "Platão",
+   "epoca": "c. 428–348 a.C.",
+   "obra": "Apologia de Sócrates",
+   "referencia": "38a",
+   "tradicao": "Filosofia grega clássica",
+   "temas": [
+    "autoconhecimento",
+    "sabedoria"
+   ],
+   "idioma": "grego antigo",
+   "traducao": "Tradução própria do app, a partir do original grego; conferida com a tradução inglesa de Benjamin Jowett (domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/1656",
+   "observacoes": "Palavras de Sócrates no seu julgamento, como Platão as registrou."
+  },
+  {
+   "id": "pla-gor-469c",
+   "classificacao": "verificada",
+   "texto": "Eu não quereria nem uma coisa nem outra; mas, se fosse preciso escolher entre cometer uma injustiça e sofrê-la, eu escolheria sofrê-la.",
+   "autor": "Platão",
+   "epoca": "c. 428–348 a.C.",
+   "obra": "Górgias",
+   "referencia": "469c",
+   "tradicao": "Filosofia grega clássica",
+   "temas": [
+    "justiça",
+    "escolha"
+   ],
+   "idioma": "grego antigo",
+   "traducao": "Tradução própria do app, a partir do original grego; conferida com a tradução inglesa de Benjamin Jowett (domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/1672",
+   "observacoes": "Resposta de Sócrates a Polo no diálogo."
+  },
+  {
+   "id": "pla-tee-155d",
+   "classificacao": "verificada",
+   "texto": "O espanto é próprio do filósofo: a filosofia começa no espanto.",
+   "autor": "Platão",
+   "epoca": "c. 428–348 a.C.",
+   "obra": "Teeteto",
+   "referencia": "155d",
+   "tradicao": "Filosofia grega clássica",
+   "temas": [
+    "conhecimento",
+    "admiração"
+   ],
+   "idioma": "grego antigo",
+   "traducao": "Tradução própria do app, a partir do original grego; conferida com a tradução inglesa de Benjamin Jowett (domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/1726",
+   "observacoes": "Fala de Sócrates a Teeteto."
+  },
+  {
+   "id": "ari-en-2-1",
+   "classificacao": "verificada",
+   "texto": "É praticando atos justos que nos tornamos justos; atos moderados, que nos tornamos moderados; atos corajosos, que nos tornamos corajosos.",
+   "autor": "Aristóteles",
+   "epoca": "384–322 a.C.",
+   "obra": "Ética a Nicômaco",
+   "referencia": "II, 1 (1103a–b)",
+   "tradicao": "Filosofia grega clássica",
+   "temas": [
+    "hábito",
+    "justiça",
+    "coragem",
+    "temperança"
+   ],
+   "idioma": "grego antigo",
+   "traducao": "Tradução própria do app, a partir do original grego; conferida com a tradução inglesa de D. P. Chase (1847, domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/8438",
+   "observacoes": ""
+  },
+  {
+   "id": "ari-en-1-7",
+   "classificacao": "verificada",
+   "texto": "Uma andorinha só não faz a primavera, nem um único dia; assim também um dia ou um curto tempo não fazem ninguém feliz.",
+   "autor": "Aristóteles",
+   "epoca": "384–322 a.C.",
+   "obra": "Ética a Nicômaco",
+   "referencia": "I, 7 (1098a18)",
+   "tradicao": "Filosofia grega clássica",
+   "temas": [
+    "felicidade",
+    "tempo",
+    "hábito"
+   ],
+   "idioma": "grego antigo",
+   "traducao": "Tradução própria do app, a partir do original grego; conferida com a tradução inglesa de D. P. Chase (1847, domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/8438",
+   "observacoes": "No grego, “primavera” (éar); em português o provérbio ficou com “verão”."
+  },
+  {
+   "id": "ari-en-8-1",
+   "classificacao": "verificada",
+   "texto": "Ninguém escolheria viver sem amigos, mesmo tendo todos os outros bens.",
+   "autor": "Aristóteles",
+   "epoca": "384–322 a.C.",
+   "obra": "Ética a Nicômaco",
+   "referencia": "VIII, 1 (1155a5)",
+   "tradicao": "Filosofia grega clássica",
+   "temas": [
+    "amizade"
+   ],
+   "idioma": "grego antigo",
+   "traducao": "Tradução própria do app, a partir do original grego; conferida com a tradução inglesa de D. P. Chase (1847, domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/8438",
+   "observacoes": ""
+  },
+  {
+   "id": "epc-men-122",
+   "classificacao": "verificada",
+   "texto": "Que ninguém, sendo jovem, adie o estudo da filosofia, nem, sendo velho, se canse dele: nunca é cedo nem tarde demais para cuidar da saúde da alma.",
+   "autor": "Epicuro",
+   "epoca": "341–270 a.C.",
+   "obra": "Carta a Meneceu",
+   "referencia": "em Diógenes Laércio, X, 122",
+   "tradicao": "Epicurismo",
+   "temas": [
+    "sabedoria",
+    "aprendizado"
+   ],
+   "idioma": "grego antigo",
+   "traducao": "Tradução própria do app, a partir do original grego; conferida com a tradução inglesa de C. D. Yonge (1853, domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/57342",
+   "observacoes": "A carta chegou até nós porque Diógenes Laércio a transcreveu inteira."
+  },
+  {
+   "id": "epc-men-125",
+   "classificacao": "verificada",
+   "texto": "A morte nada é para nós: enquanto existimos, a morte não está presente; quando a morte está presente, nós já não existimos.",
+   "autor": "Epicuro",
+   "epoca": "341–270 a.C.",
+   "obra": "Carta a Meneceu",
+   "referencia": "em Diógenes Laércio, X, 125",
+   "tradicao": "Epicurismo",
+   "temas": [
+    "morte",
+    "tranquilidade"
+   ],
+   "idioma": "grego antigo",
+   "traducao": "Tradução própria do app, a partir do original grego; conferida com a tradução inglesa de C. D. Yonge (1853, domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/57342",
+   "observacoes": ""
+  },
+  {
+   "id": "epc-kd-27",
+   "classificacao": "verificada",
+   "texto": "De tudo o que a sabedoria proporciona para a felicidade da vida inteira, o maior bem, de longe, é a amizade.",
+   "autor": "Epicuro",
+   "epoca": "341–270 a.C.",
+   "obra": "Máximas principais",
+   "referencia": "27 (em Diógenes Laércio, X, 148; número 28 na tradução de Yonge)",
+   "tradicao": "Epicurismo",
+   "temas": [
+    "amizade",
+    "felicidade"
+   ],
+   "idioma": "grego antigo",
+   "traducao": "Tradução própria do app, a partir do original grego; conferida com a tradução inglesa de C. D. Yonge (1853, domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/57342",
+   "observacoes": ""
+  },
+  {
+   "id": "epc-sen-16-7",
+   "classificacao": "verificada",
+   "texto": "Se viveres segundo a natureza, nunca serás pobre; se segundo a opinião, nunca serás rico.",
+   "autor": "Epicuro",
+   "epoca": "341–270 a.C.",
+   "obra": "dito citado por Sêneca, Cartas a Lucílio",
+   "referencia": "Carta 16, §7",
+   "tradicao": "Epicurismo",
+   "temas": [
+    "desejo",
+    "temperança"
+   ],
+   "idioma": "latim (citação de Sêneca)",
+   "traducao": "Tradução própria do app, a partir do latim de Sêneca.",
+   "fonte": "https://www.thelatinlibrary.com/sen/seneca.ep2.shtml",
+   "observacoes": "Sêneca cita o dito como de Epicuro: “si ad naturam vives, numquam eris pauper; si ad opiniones, numquam eris dives”. Conhecemos o texto só por essa citação."
+  },
+  {
+   "id": "ago-conf-1-1",
+   "classificacao": "verificada",
+   "texto": "Fizeste-nos para ti, e o nosso coração está inquieto enquanto não repousa em ti.",
+   "autor": "Agostinho de Hipona",
+   "epoca": "354–430",
+   "obra": "Confissões",
+   "referencia": "I, 1.1",
+   "tradicao": "Filosofia cristã",
+   "temas": [
+    "fé",
+    "inquietação"
+   ],
+   "idioma": "latim",
+   "traducao": "Tradução própria do app, a partir do original latino.",
+   "fonte": "https://www.thelatinlibrary.com/augustine/conf1.shtml",
+   "observacoes": "Latim: “fecisti nos ad te et inquietum est cor nostrum donec requiescat in te.” É uma oração dirigida a Deus."
+  },
+  {
+   "id": "ago-conf-10-8",
+   "classificacao": "verificada",
+   "texto": "E os homens vão admirar os cumes das montanhas, as ondas enormes do mar, o largo curso dos rios, a vastidão do oceano e o giro dos astros — e deixam a si mesmos de lado.",
+   "autor": "Agostinho de Hipona",
+   "epoca": "354–430",
+   "obra": "Confissões",
+   "referencia": "X, 8.15",
+   "tradicao": "Filosofia cristã",
+   "temas": [
+    "autoconhecimento",
+    "admiração"
+   ],
+   "idioma": "latim",
+   "traducao": "Tradução própria do app, a partir do original latino.",
+   "fonte": "https://faculty.georgetown.edu/jod/latinconf/10.html",
+   "observacoes": "Latim: “et eunt homines mirari alta montium … et relinquunt se ipsos.” Agostinho fala da imensidão da memória, que é ele mesmo e que ele não consegue abarcar."
+  },
+  {
+   "id": "boe-cons-2-4",
+   "classificacao": "verificada",
+   "texto": "Nada é infeliz senão quando assim o julgas; e, ao contrário, toda sorte é feliz para quem a suporta com serenidade.",
+   "autor": "Boécio",
+   "epoca": "c. 480–524",
+   "obra": "A consolação da filosofia",
+   "referencia": "Livro II, prosa 4",
+   "tradicao": "Filosofia cristã",
+   "temas": [
+    "sofrimento",
+    "tranquilidade"
+   ],
+   "idioma": "latim",
+   "traducao": "Tradução própria do app; conferida com a tradução inglesa de H. R. James (1897, domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/14328",
+   "observacoes": "Fala da Filosofia personificada a Boécio, escrito na prisão antes de sua execução."
+  },
+  {
+   "id": "pas-277",
+   "classificacao": "verificada",
+   "texto": "O coração tem suas razões, que a razão desconhece.",
+   "autor": "Blaise Pascal",
+   "epoca": "1623–1662",
+   "obra": "Pensamentos",
+   "referencia": "fragmento 277 (numeração Brunschvicg)",
+   "tradicao": "Filosofia cristã",
+   "temas": [
+    "fé",
+    "conhecimento"
+   ],
+   "idioma": "francês",
+   "traducao": "Tradução própria do app, a partir do original francês; conferida com a tradução inglesa de W. F. Trotter (domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/18269",
+   "observacoes": "Francês: “Le cœur a ses raisons que la raison ne connaît point.” Os Pensamentos são notas que Pascal deixou inacabadas; a numeração muda conforme a edição."
+  },
+  {
+   "id": "pas-139",
+   "classificacao": "verificada",
+   "texto": "Toda a infelicidade dos homens vem de uma só coisa: não saber ficar em repouso num quarto.",
+   "autor": "Blaise Pascal",
+   "epoca": "1623–1662",
+   "obra": "Pensamentos",
+   "referencia": "fragmento 139 (numeração Brunschvicg)",
+   "tradicao": "Filosofia cristã",
+   "temas": [
+    "tranquilidade",
+    "distração"
+   ],
+   "idioma": "francês",
+   "traducao": "Tradução própria do app, a partir do original francês; conferida com a tradução inglesa de W. F. Trotter (domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/18269",
+   "observacoes": "Do fragmento sobre o “divertimento”: a busca de distração para não pensar em si."
+  },
+  {
+   "id": "pas-347",
+   "classificacao": "verificada",
+   "texto": "O homem não passa de um caniço, o mais frágil da natureza; mas é um caniço pensante.",
+   "autor": "Blaise Pascal",
+   "epoca": "1623–1662",
+   "obra": "Pensamentos",
+   "referencia": "fragmento 347 (numeração Brunschvicg)",
+   "tradicao": "Filosofia cristã",
+   "temas": [
+    "condição humana",
+    "conhecimento"
+   ],
+   "idioma": "francês",
+   "traducao": "Tradução própria do app, a partir do original francês; conferida com a tradução inglesa de W. F. Trotter (domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/18269",
+   "observacoes": ""
+  },
+  {
+   "id": "mon-1-39",
+   "classificacao": "verificada",
+   "texto": "A maior coisa do mundo é saber pertencer a si mesmo.",
+   "autor": "Michel de Montaigne",
+   "epoca": "1533–1592",
+   "obra": "Ensaios",
+   "referencia": "I, 39 “Da solidão” (I, 38 em algumas edições)",
+   "tradicao": "Humanismo renascentista",
+   "temas": [
+    "liberdade",
+    "autoconhecimento"
+   ],
+   "idioma": "francês (médio)",
+   "traducao": "Tradução própria do app, a partir do original francês.",
+   "fonte": "https://fr.wikisource.org/wiki/Essais/Livre_I/Chapitre_39",
+   "observacoes": "Original: “La plus grande chose du monde, c’est de sçavoir estre à soy.”"
+  },
+  {
+   "id": "mon-3-2",
+   "classificacao": "verificada",
+   "texto": "Cada homem traz em si a forma inteira da condição humana.",
+   "autor": "Michel de Montaigne",
+   "epoca": "1533–1592",
+   "obra": "Ensaios",
+   "referencia": "III, 2 “Do arrependimento”",
+   "tradicao": "Humanismo renascentista",
+   "temas": [
+    "condição humana",
+    "autoconhecimento"
+   ],
+   "idioma": "francês (médio)",
+   "traducao": "Tradução própria do app, a partir do original francês.",
+   "fonte": "https://fr.wikisource.org/wiki/Essais/Livre_III/Chapitre_2",
+   "observacoes": "Original: “chaque homme porte la forme entiere de l’humaine condition.”"
+  },
+  {
+   "id": "mon-3-13",
+   "classificacao": "verificada",
+   "texto": "Nossa grande e gloriosa obra-prima é viver a propósito.",
+   "autor": "Michel de Montaigne",
+   "epoca": "1533–1592",
+   "obra": "Ensaios",
+   "referencia": "III, 13 “Da experiência”",
+   "tradicao": "Humanismo renascentista",
+   "temas": [
+    "sabedoria",
+    "vida"
+   ],
+   "idioma": "francês (médio)",
+   "traducao": "Tradução própria do app, a partir do original francês.",
+   "fonte": "https://fr.wikisource.org/wiki/Essais/Livre_III/Chapitre_13",
+   "observacoes": "Original: “Nostre grand et glorieux chef-d’œuvre c’est vivre à propos.” “A propósito”: como convém, de modo adequado. Montaigne continua: reinar, entesourar, construir são só acessórios."
+  },
+  {
+   "id": "spi-4-67",
+   "classificacao": "verificada",
+   "texto": "O homem livre em nada pensa menos do que na morte, e sua sabedoria é uma meditação não da morte, mas da vida.",
+   "autor": "Baruch Spinoza",
+   "epoca": "1632–1677",
+   "obra": "Ética",
+   "referencia": "Parte IV, proposição 67",
+   "tradicao": "Racionalismo",
+   "temas": [
+    "liberdade",
+    "morte",
+    "vida"
+   ],
+   "idioma": "latim",
+   "traducao": "Tradução própria do app, a partir do original latino; conferida com a tradução inglesa de R. H. M. Elwes (1883, domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/3800",
+   "observacoes": "Para Spinoza, “homem livre” é quem vive guiado pela razão, e não pelo medo."
+  },
+  {
+   "id": "spi-5-42",
+   "classificacao": "verificada",
+   "texto": "Tudo o que é excelente é tão difícil quanto raro.",
+   "autor": "Baruch Spinoza",
+   "epoca": "1632–1677",
+   "obra": "Ética",
+   "referencia": "Parte V, proposição 42, escólio",
+   "tradicao": "Racionalismo",
+   "temas": [
+    "esforço",
+    "sabedoria"
+   ],
+   "idioma": "latim",
+   "traducao": "Tradução própria do app, a partir do original latino; conferida com a tradução inglesa de R. H. M. Elwes (1883, domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/3800",
+   "observacoes": "É a última frase da Ética. Latim: “Sed omnia praeclara tam difficilia quam rara sunt.”"
+  },
+  {
+   "id": "nie-gc-270",
+   "classificacao": "verificada",
+   "texto": "Que diz a tua consciência? — “Tu deves tornar-te quem tu és.”",
+   "autor": "Friedrich Nietzsche",
+   "epoca": "1844–1900",
+   "obra": "A gaia ciência",
+   "referencia": "§ 270",
+   "tradicao": "Filosofia alemã do séc. XIX",
+   "temas": [
+    "autoconhecimento",
+    "liberdade"
+   ],
+   "idioma": "alemão",
+   "traducao": "Tradução própria do app; conferida com a tradução inglesa de Thomas Common (1910, domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/52881",
+   "observacoes": "A fórmula ecoa o poeta grego Píndaro (“torna-te o que és”). Nietzsche a usaria também no subtítulo de Ecce Homo."
+  },
+  {
+   "id": "nie-gc-290",
+   "classificacao": "verificada",
+   "texto": "Dar “estilo” ao próprio caráter — uma grande e rara arte!",
+   "autor": "Friedrich Nietzsche",
+   "epoca": "1844–1900",
+   "obra": "A gaia ciência",
+   "referencia": "§ 290",
+   "tradicao": "Filosofia alemã do séc. XIX",
+   "temas": [
+    "caráter",
+    "autoconhecimento"
+   ],
+   "idioma": "alemão",
+   "traducao": "Tradução própria do app; conferida com a tradução inglesa de Thomas Common (1910, domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/52881",
+   "observacoes": "Segue-se uma descrição de quem olha para as forças e fraquezas da própria natureza e as integra num plano."
+  },
+  {
+   "id": "nie-ci-8",
+   "classificacao": "verificada",
+   "texto": "Da escola de guerra da vida. — O que não me mata me torna mais forte.",
+   "autor": "Friedrich Nietzsche",
+   "epoca": "1844–1900",
+   "obra": "Crepúsculo dos ídolos",
+   "referencia": "“Máximas e flechas”, 8",
+   "tradicao": "Filosofia alemã do séc. XIX",
+   "temas": [
+    "sofrimento",
+    "coragem"
+   ],
+   "idioma": "alemão",
+   "traducao": "Tradução própria do app; conferida com a tradução inglesa de A. M. Ludovici (1911, domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/52263",
+   "observacoes": "Não é uma promessa de que todo sofrimento fortalece; o texto não traz mais explicação."
+  },
+  {
+   "id": "nie-ci-12",
+   "classificacao": "verificada",
+   "texto": "Quem tem o seu porquê da vida suporta quase qualquer como.",
+   "autor": "Friedrich Nietzsche",
+   "epoca": "1844–1900",
+   "obra": "Crepúsculo dos ídolos",
+   "referencia": "“Máximas e flechas”, 12",
+   "tradicao": "Filosofia alemã do séc. XIX",
+   "temas": [
+    "sentido",
+    "sofrimento"
+   ],
+   "idioma": "alemão",
+   "traducao": "Tradução própria do app; conferida com a tradução inglesa de A. M. Ludovici (1911, domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/52263",
+   "observacoes": ""
+  },
+  {
+   "id": "kie-angest",
+   "classificacao": "verificada",
+   "texto": "A angústia é a vertigem da liberdade, que surge quando o espírito quer pôr a síntese e a liberdade olha para baixo, para a sua própria possibilidade.",
+   "autor": "Søren Kierkegaard",
+   "epoca": "1813–1855",
+   "obra": "O conceito de angústia (Begrebet Angest, 1844)",
+   "referencia": "trecho que começa com “Angest kan man sammenligne med Svimmelhed” (p. 58 na edição de 1991 da DSL)",
+   "tradicao": "Existencialismo (precursor)",
+   "temas": [
+    "liberdade",
+    "escolha",
+    "angústia"
+   ],
+   "idioma": "dinamarquês",
+   "traducao": "Tradução própria do app, a partir do original dinamarquês.",
+   "fonte": "https://tekster.kb.dk/text/adl-texts-kierkegaard01val-shoot-idm140698092521808.pdf",
+   "observacoes": "Original: “Saaledes er Angest den Frihedens Svimlen …”. O livro saiu com o pseudônimo Vigilius Haufniensis. Antes, Kierkegaard compara: quem olha para um abismo fica tonto, e a causa é tanto o olho quanto o abismo."
+  },
+  {
+   "id": "kie-diario-1843",
+   "classificacao": "incerta",
+   "texto": "A vida só pode ser compreendida olhando para trás; mas tem de ser vivida olhando para a frente.",
+   "autor": "Søren Kierkegaard",
+   "epoca": "1813–1855",
+   "obra": "anotação de diário (1843)",
+   "referencia": "",
+   "tradicao": "Existencialismo (precursor)",
+   "temas": [
+    "tempo",
+    "escolha"
+   ],
+   "idioma": "dinamarquês",
+   "traducao": "Tradução própria do app, a partir do dinamarquês citado em fontes secundárias.",
+   "fonte": "Texto dinamarquês (“… Livet maa forstaaes baglænds … det maa leves forlænds”) encontrado só em fontes secundárias, sem conferência na edição crítica (Søren Kierkegaards Skrifter).",
+   "observacoes": "Muito provavelmente é de Kierkegaard, mas não consegui conferir a anotação na edição crítica; por isso fica como atribuição incerta até ser verificada."
+  },
+  {
+   "id": "kaf-z5",
+   "classificacao": "verificada",
+   "texto": "A partir de certo ponto não há mais retorno. É esse o ponto que se deve alcançar.",
+   "autor": "Franz Kafka",
+   "epoca": "1883–1924",
+   "obra": "Aforismos de Zürau (Betrachtungen über Sünde, Leid, Hoffnung und den wahren Weg)",
+   "referencia": "aforismo 5",
+   "tradicao": "Literatura",
+   "temas": [
+    "escolha",
+    "decisão"
+   ],
+   "idioma": "alemão",
+   "traducao": "Tradução própria do app, a partir do original alemão.",
+   "fonte": "https://de.wikisource.org/wiki/Betrachtungen_%C3%BCber_S%C3%BCnde,_Leid,_Hoffnung_und_den_wahren_Weg",
+   "observacoes": "Kafka era escritor de ficção, não filósofo acadêmico. Escreveu estes aforismos em 1917–1918; Max Brod os publicou em 1931, depois da morte do autor. Original: “Von einem gewissen Punkt an gibt es keine Rückkehr mehr. Dieser Punkt ist zu erreichen.”"
+  },
+  {
+   "id": "kaf-z26",
+   "classificacao": "verificada",
+   "texto": "Há um objetivo, mas nenhum caminho; o que chamamos de caminho é hesitação.",
+   "autor": "Franz Kafka",
+   "epoca": "1883–1924",
+   "obra": "Aforismos de Zürau (Betrachtungen über Sünde, Leid, Hoffnung und den wahren Weg)",
+   "referencia": "aforismo 26, segundo parágrafo",
+   "tradicao": "Literatura",
+   "temas": [
+    "caminho",
+    "decisão"
+   ],
+   "idioma": "alemão",
+   "traducao": "Tradução própria do app, a partir do original alemão.",
+   "fonte": "https://de.wikisource.org/wiki/Betrachtungen_%C3%BCber_S%C3%BCnde,_Leid,_Hoffnung_und_den_wahren_Weg",
+   "observacoes": "Original: “Es gibt ein Ziel, aber keinen Weg; was wir Weg nennen, ist Zögern.” Kafka escreveu estes aforismos como escritor de ficção, não como filósofo acadêmico."
+  },
+  {
+   "id": "mac-bc-160",
+   "classificacao": "verificada",
+   "texto": "Não tive filhos, não transmiti a nenhuma criatura o legado da nossa miséria.",
+   "autor": "Machado de Assis",
+   "epoca": "1839–1908",
+   "obra": "Memórias póstumas de Brás Cubas (1881)",
+   "referencia": "cap. CLX, “Das negativas”",
+   "tradicao": "Literatura",
+   "temas": [
+    "condição humana",
+    "ironia"
+   ],
+   "idioma": "português",
+   "traducao": "Original em português (ortografia atualizada).",
+   "fonte": "https://www.gutenberg.org/ebooks/54829",
+   "observacoes": "É a última frase do livro, dita pelo narrador defunto Brás Cubas: a amargura e a ironia são do personagem, não um conselho."
+  },
+  {
+   "id": "pes-mar-portugues",
+   "classificacao": "verificada",
+   "texto": "Valeu a pena? Tudo vale a pena / Se a alma não é pequena.",
+   "autor": "Fernando Pessoa",
+   "epoca": "1888–1935",
+   "obra": "Mensagem (1934)",
+   "referencia": "poema “Mar português”",
+   "tradicao": "Literatura",
+   "temas": [
+    "sentido",
+    "coragem",
+    "sofrimento"
+   ],
+   "idioma": "português",
+   "traducao": "Original em português (ortografia atualizada).",
+   "fonte": "https://pt.wikisource.org/wiki/Mar_Portuguez",
+   "observacoes": "Os versos respondem à dor das perdas no mar, nas navegações portuguesas: “quantas mães choraram”."
+  },
+  {
+   "id": "con-2-17",
+   "classificacao": "verificada",
+   "texto": "Saber o que se sabe e saber que não se sabe o que não se sabe: isso é conhecimento.",
+   "autor": "Confúcio",
+   "epoca": "551–479 a.C. (datas tradicionais)",
+   "obra": "Analectos (Lunyu)",
+   "referencia": "II, 17",
+   "tradicao": "Confucionismo",
+   "temas": [
+    "conhecimento",
+    "humildade"
+   ],
+   "idioma": "chinês clássico",
+   "traducao": "Tradução própria do app; conferida com a tradução inglesa de James Legge (domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/3330",
+   "observacoes": "Os Analectos foram compilados por discípulos depois da morte de Confúcio. Ele fala a um discípulo (Zilu, chamado “Yu” no texto)."
+  },
+  {
+   "id": "con-15-23",
+   "classificacao": "verificada",
+   "texto": "O que não queres para ti, não o faças aos outros.",
+   "autor": "Confúcio",
+   "epoca": "551–479 a.C. (datas tradicionais)",
+   "obra": "Analectos (Lunyu)",
+   "referencia": "XV, 23 (numeração de Legge)",
+   "tradicao": "Confucionismo",
+   "temas": [
+    "justiça",
+    "reciprocidade"
+   ],
+   "idioma": "chinês clássico",
+   "traducao": "Tradução própria do app; conferida com a tradução inglesa de James Legge (domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/3330",
+   "observacoes": "Resposta a quem pergunta se existe uma palavra que sirva de regra para a vida toda: “reciprocidade” (shu)."
+  },
+  {
+   "id": "con-7-21",
+   "classificacao": "verificada",
+   "texto": "Quando caminho com mais duas pessoas, elas podem ser meus mestres: escolho o que têm de bom para seguir, e o que têm de mau para evitar.",
+   "autor": "Confúcio",
+   "epoca": "551–479 a.C. (datas tradicionais)",
+   "obra": "Analectos (Lunyu)",
+   "referencia": "VII, 21 (numeração de Legge)",
+   "tradicao": "Confucionismo",
+   "temas": [
+    "aprendizado",
+    "humildade"
+   ],
+   "idioma": "chinês clássico",
+   "traducao": "Tradução própria do app; conferida com a tradução inglesa de James Legge (domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/3330",
+   "observacoes": ""
+  },
+  {
+   "id": "lao-33",
+   "classificacao": "verificada",
+   "texto": "Quem conhece os outros é inteligente; quem conhece a si mesmo é iluminado. Quem vence os outros tem força; quem vence a si mesmo é forte.",
+   "autor": "Laozi",
+   "epoca": "séc. VI–IV a.C. (incerto)",
+   "obra": "Daodejing (Tao Te Ching)",
+   "referencia": "capítulo 33",
+   "tradicao": "Taoísmo",
+   "temas": [
+    "autoconhecimento",
+    "temperança"
+   ],
+   "idioma": "chinês clássico",
+   "traducao": "Tradução própria do app; conferida com o original chinês e com a tradução inglesa de James Legge (domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/7337",
+   "observacoes": "Chinês: “知人者智，自知者明。勝人者有力，自勝者強。” A autoria de Laozi é tradicional; o livro provavelmente reúne textos de várias épocas."
+  },
+  {
+   "id": "lao-64",
+   "classificacao": "verificada",
+   "texto": "A viagem de mil léguas começa debaixo dos pés.",
+   "autor": "Laozi",
+   "epoca": "séc. VI–IV a.C. (incerto)",
+   "obra": "Daodejing (Tao Te Ching)",
+   "referencia": "capítulo 64",
+   "tradicao": "Taoísmo",
+   "temas": [
+    "ação",
+    "paciência"
+   ],
+   "idioma": "chinês clássico",
+   "traducao": "Tradução própria do app; conferida com o original chinês e com a tradução inglesa de James Legge (domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/7337",
+   "observacoes": "Chinês: “千里之行，始於足下”. A versão “começa com um único passo” é a forma popularizada pela tradução de Legge (“li” é uma medida chinesa de distância). O contexto fala de agir enquanto as coisas ainda são pequenas."
+  },
+  {
+   "id": "zhu-26",
+   "classificacao": "verificada",
+   "texto": "A armadilha existe por causa do peixe: apanhado o peixe, esquece-se a armadilha. As palavras existem por causa da ideia: apreendida a ideia, esquecem-se as palavras. Onde encontrarei alguém que tenha esquecido as palavras, para conversar com ele?",
+   "autor": "Zhuangzi",
+   "epoca": "c. 369–286 a.C.",
+   "obra": "Zhuangzi",
+   "referencia": "capítulo 26, “Coisas externas” (Wai wu)",
+   "tradicao": "Taoísmo",
+   "temas": [
+    "linguagem",
+    "conhecimento"
+   ],
+   "idioma": "chinês clássico",
+   "traducao": "Tradução própria do app; conferida com a tradução inglesa de Herbert A. Giles (1889, domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/59709",
+   "observacoes": "É o fim do capítulo. Os capítulos “externos” do livro podem ter sido escritos por discípulos."
+  },
+  {
+   "id": "dha-5",
+   "classificacao": "verificada",
+   "texto": "O ódio nunca cessa pelo ódio; o ódio cessa pelo não-ódio. Esta é uma lei antiga.",
+   "autor": "Dhammapada (tradição budista)",
+   "epoca": "",
+   "obra": "Dhammapada",
+   "referencia": "verso 5",
+   "tradicao": "Budismo",
+   "temas": [
+    "perdão",
+    "paz"
+   ],
+   "idioma": "páli",
+   "traducao": "Tradução própria do app, a partir do páli; conferida com a tradução inglesa de F. Max Müller (1881, domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/2017",
+   "observacoes": "Páli: “averena ca sammanti”: cessa pela ausência de ódio (Müller traduz por “love”). O Dhammapada é uma coletânea de versos atribuídos pela tradição ao Buda."
+  },
+  {
+   "id": "dha-103",
+   "classificacao": "verificada",
+   "texto": "Ainda que alguém vença mil vezes mil homens numa batalha, quem vence a si mesmo é o maior dos vencedores.",
+   "autor": "Dhammapada (tradição budista)",
+   "epoca": "",
+   "obra": "Dhammapada",
+   "referencia": "verso 103",
+   "tradicao": "Budismo",
+   "temas": [
+    "autodomínio",
+    "temperança"
+   ],
+   "idioma": "páli",
+   "traducao": "Tradução própria do app; conferida com a tradução inglesa de F. Max Müller (1881, domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/2017",
+   "observacoes": "O Dhammapada é uma coletânea de versos atribuídos pela tradição ao Buda."
+  },
+  {
+   "id": "bg-2-47",
+   "classificacao": "verificada",
+   "texto": "Teu direito é só à ação, nunca aos seus frutos.",
+   "autor": "Bhagavad Gita (Mahabharata)",
+   "epoca": "",
+   "obra": "Bhagavad Gita",
+   "referencia": "II, 47",
+   "tradicao": "Hinduísmo",
+   "temas": [
+    "ação",
+    "desapego"
+   ],
+   "idioma": "sânscrito",
+   "traducao": "Tradução própria do app, a partir do sânscrito; conferida com a versão inglesa em verso de Edwin Arnold (1885, domínio público).",
+   "fonte": "https://www.gutenberg.org/ebooks/2388",
+   "observacoes": "Palavras de Krishna a Arjuna antes da batalha. Sânscrito: “karmaṇy evādhikāras te mā phaleṣu kadācana”. Arnold: “Let right deeds be thy motive, not the fruit which comes from them.”"
+  }
+ ]
+}

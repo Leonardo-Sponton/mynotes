@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=MyNotes
+GenericName=Notas e diário
+Comment=Notas, diário, exame de consciência e biblioteca de pensamentos
+Exec=mynotes
+Icon=accessories-text-editor
+Terminal=false
+Categories=Office;GTK;
+Keywords=notas;diário;markdown;estoicismo;notes;journal;
+StartupNotify=true
+StartupWMClass=io.github.leonardo_sponton.MyNotes
